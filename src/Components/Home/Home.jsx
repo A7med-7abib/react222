@@ -20,7 +20,7 @@ export default function Home() {
       </div>
 
       
-      <p className="text-lg font-light">Graphic Artist - Web Designer - Illustrator</p>
+      <p className="text-lg font-light">Graphic Artist - Web Designer -Illustrator</p>
     </div>
   </React.Fragment>
   );
